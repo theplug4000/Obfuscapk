@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/ClaudiuGeorgiu/Obfuscapk/master/docs/logo/logo.png)
 
-> A black-box obfuscation tool for Android apps.
+> A black-box obfuscation tool for Android apps. UPDATED FILE COMPILED FOR WINDOWS.
 
 [![Codacy](https://app.codacy.com/project/badge/Grade/076af5e6284541d39679c96d16d83772)](https://www.codacy.com/gh/ClaudiuGeorgiu/Obfuscapk)
 [![Ubuntu Build Status](https://github.com/ClaudiuGeorgiu/Obfuscapk/workflows/Ubuntu/badge.svg)](https://github.com/ClaudiuGeorgiu/Obfuscapk/actions?query=workflow%3AUbuntu)
